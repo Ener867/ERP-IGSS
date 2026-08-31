@@ -1,0 +1,10 @@
+:root {
+  --bg-dark: #0f172a;
+  --text-light: #f8fafc;
+}
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, sans-serif;
+  background-color: var(--bg-dark);
+  color: var(--text-light);
+}
